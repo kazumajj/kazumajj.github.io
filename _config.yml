@@ -96,13 +96,13 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hexo-theme-stellar-main
+theme: stellar
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: git@github.com:kazumajj/kaz.github.io.git
+  repository: git@github.com:kazumajj/kazumajj.github.io.git
   branch: main
 
 
